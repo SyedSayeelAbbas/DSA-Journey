@@ -1,5 +1,7 @@
 BrightCart - E-Commerce Backend System
-📋 Project Overview
+</br>
+📋 Project Overview</br>
+
 BrightCart is a comprehensive Java-based e-commerce backend system that implements fundamental data structures and algorithms to manage products, customers, orders, and recommendations. This prototype demonstrates efficient inventory management, shopping cart functionality, and customer relationship management using custom-built data structures.
 
 🏗️ System Architecture

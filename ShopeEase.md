@@ -1,6 +1,6 @@
-ShopEase - Inventory & Sales Management System
-📋 Project Overview
-ShopEase is a comprehensive web-based inventory and sales management system designed to help businesses efficiently manage their products, process sales, track transactions, and generate insightful reports. The application features role-based access control with separate interfaces for administrators and regular users.
+ShopEase - Inventory & Sales Management System</br>
+📋 Project Overview</br>
+ShopEase is a comprehensive web-based inventory and sales management system designed to help businesses efficiently manage their products, process sales, track transactions, and generate insightful reports. The application features role-based access control with separate interfaces for administrators and regular users.</br>
 
 ✨ Key Features
 🔐 Authentication System
